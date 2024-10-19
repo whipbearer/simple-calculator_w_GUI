@@ -1,4 +1,4 @@
 # simple-calculator_w_GUI
 
-You could download the executable to have the full experience or the python file that I used to make this.
-
+You can download the latest version of this calculator.
+This was my first use of customtkinter.
